@@ -1,0 +1,39 @@
+### projects
+temp/
+tmp/
+.idea/
+.vscode/
+/data/
+/src/
+
+### private
+resume/
+简历/
+简历-resume/
+Resume/
+
+### MacOS
+.DS_Store
+.obsidian/
+/Icon?
+
+# builds
+venv/
+env/
+.env/
+.venv/
+
+
+# Python
+__pychache__
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+
+
